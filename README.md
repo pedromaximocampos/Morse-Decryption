@@ -1,6 +1,7 @@
 # Morse-Decryption
 
 First project for professional portfolio proposed by Bootcamp 100 days of code (Python) on day 82.
+
 Link to the course: https://www.udemy.com/course/100-days-of-code/?couponCode=24T5FS31824
 
 This project does not have a step-by-step guide or solution.
