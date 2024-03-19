@@ -4,6 +4,8 @@ First project for professional portfolio proposed by Bootcamp 100 days of code (
 
 Link to the course: https://www.udemy.com/course/100-days-of-code/?couponCode=24T5FS31824
 
+Link to course certificate: https://www.udemy.com/certificate/UC-426b1071-cc74-4683-9700-b94855e02113/
+
 This project does not have a step-by-step guide or solution.
 I made the decision to use Pandas and OOP to create a solution.
 I took the liberty of also creating the function to create morse code decryption for text in addition to encoding the text in morse.
